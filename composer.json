@@ -1,0 +1,15 @@
+{
+    "name": "yann/composer",
+    "authors": [
+        {
+            "name": "Yann Raulet",
+            "email": "yann.raulet@hotmail.fr"
+        }
+    ],
+    
+    "require": {},
+
+    "autoload": {
+        "psr-4": {"App\\": "src/"}
+    }
+}
